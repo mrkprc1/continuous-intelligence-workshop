@@ -13,6 +13,7 @@ In order to run this workshop, you will need:
 
 * A valid Github account
 * A working Docker setup (if running on Windows, make sure to use Linux containers)
+* My small change
 
 ## Workshop Instructions
 
